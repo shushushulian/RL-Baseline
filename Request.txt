@@ -1,0 +1,6 @@
+gym==0.17.1
+numpy==1.16.2
+Keras==2.3.1
+matplotlib==3.0.2
+tensorflow==2.1.0
+Box2D==2.3.10
